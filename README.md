@@ -38,7 +38,8 @@ low pass Butterworth filter and take necessary observations as mentioned below.
 
 
 ## OUTPUT GRAPHS
-![image](https://github.com/user-attachments/assets/48099ff8-4173-4600-ae78-683e371455cb)
+![WhatsApp Image 2025-04-20 at 21 33 16_4fd07791](https://github.com/user-attachments/assets/f01f3b72-506e-40b8-82bf-6b7cd7d141ba)
+
 
 
 ## RESULT 
